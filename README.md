@@ -48,8 +48,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="![image](https://github.com/user-attachments/assets/9118aa72-d938-4453-93d2-7b8e6f15fbe3)
-"  />
+  <img height="150" src="![image](https://github.com/user-attachments/assets/9118aa72-d938-4453-93d2-7b8e6f15fbe3)"  />
 </div>
 
 ###
