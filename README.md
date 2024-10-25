@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/W7hq7rbOaV0AAAAd/rage-slamming.gif"  />
+  <img height="150" src="https://tenor.com/pt-BR/view/i-was-a-jit-timeless-totem-of-undying-minecraft-totem-dancing-gif-4962838341895713505"  />
 </div>
 
 ###
