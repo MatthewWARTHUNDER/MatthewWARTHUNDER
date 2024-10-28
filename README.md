@@ -48,8 +48,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media.tenor.com/y5aEz9oTMNAAAAAi/warden-minecraft.gif
-"/>
+  <img height="150" src="https://media.tenor.com/y5aEz9oTMNAAAAAi/warden-minecraft.gif"/>
 </div>
 
 ###
