@@ -48,7 +48,8 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/mkxIGKFg2-4AAAAd/fallout-new-vegas-joshua-graham.gif"/>
+  <img height="150" src="https://media.tenor.com/y5aEz9oTMNAAAAAi/warden-minecraft.gif
+"/>
 </div>
 
 ###
