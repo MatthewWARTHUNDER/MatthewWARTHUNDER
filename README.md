@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Cursando desevolvimento de sistemas (° 3 período)</p>
+<p align="left">- Cursando desenvolvimento de sistemas (° 3 período)</p>
 
 ###
 
